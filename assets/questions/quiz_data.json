@@ -1,0 +1,1432 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "options": ["Paris", "London", "Berlin", "Rome"],
+    "correctAnswer": "Paris"
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "options": ["Leonardo da Vinci", "Pablo Picasso", "Vincent van Gogh", "Michelangelo"],
+    "correctAnswer": "Leonardo da Vinci"
+  },
+  {
+    "question": "What is the largest country in the world by land area?",
+    "options": ["Russia", "China", "United States", "Canada"],
+    "correctAnswer": "Russia"
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "options": ["Mars", "Jupiter", "Venus", "Mercury"],
+    "correctAnswer": "Mars"
+  },
+  {
+    "question": "What is the chemical symbol for gold?",
+    "options": ["Au", "Ag", "Cu", "Fe"],
+    "correctAnswer": "Au"
+  },
+  {
+    "question": "Who wrote the play Romeo and Juliet?",
+    "options": ["William Shakespeare", "Arthur Miller", "Tennessee Williams", "Oscar Wilde"],
+    "correctAnswer": "William Shakespeare"
+  },
+  {
+    "question": "Which country won the FIFA World Cup 2018?",
+    "options": ["France", "Croatia", "Brazil", "Germany"],
+    "correctAnswer": "France"
+  },
+  {
+    "question": "What is the tallest mountain in the world?",
+    "options": ["Mount Everest", "K2", "Kangchenjunga", "Makalu"],
+    "correctAnswer": "Mount Everest"
+  },
+  {
+    "question": "Who is the founder of Microsoft?",
+    "options": ["Bill Gates", "Steve Jobs", "Jeff Bezos", "Mark Zuckerberg"],
+    "correctAnswer": "Bill Gates"
+  },
+  {
+    "question": "What is the currency of Japan?",
+    "options": ["Yen", "Euro", "Dollar", "Pound"],
+    "correctAnswer": "Yen"
+  },
+  {
+    "question": "What is the largest ocean in the world?",
+    "options": ["Pacific Ocean", "Atlantic Ocean", "Indian Ocean", "Arctic Ocean"],
+    "correctAnswer": "Pacific Ocean"
+  },
+  {
+    "question": "Who wrote the novel Pride and Prejudice?",
+    "options": ["Jane Austen", "Emily Bronte", "Charlotte Bronte", "Charles Dickens"],
+    "correctAnswer": "Jane Austen"
+  },
+  {
+    "question": "Which country is known as the Land of the Rising Sun?",
+    "options": ["Japan", "China", "South Korea", "Vietnam"],
+    "correctAnswer": "Japan"
+  },
+  {
+    "question": "What is the largest organ in the human body?",
+    "options": ["Skin", "Heart", "Liver", "Brain"],
+    "correctAnswer": "Skin"
+  },
+  {
+    "question": "Who discovered gravity?",
+    "options": ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "Nikola Tesla"],
+    "correctAnswer": "Isaac Newton"
+  },
+  {
+    "question": "Which country is home to the Great Barrier Reef?",
+    "options": ["Australia", "Brazil", "India", "Mexico"],
+    "correctAnswer": "Australia"
+  },
+  {
+    "question": "Who is the author of the Harry Potter book series?",
+    "options": ["J.K. Rowling", "Stephen King", "George R.R. Martin", "Dan Brown"],
+    "correctAnswer": "J.K. Rowling"
+  },
+  {
+    "question": "Which instrument is known as the 'king of instruments'?",
+    "options": ["Pipe Organ", "Violin", "Piano", "Guitar"],
+    "correctAnswer": "Pipe Organ"
+  },
+  {
+    "question": "Who invented the telephone?",
+    "options": ["Alexander Graham Bell", "Thomas Edison", "Nikola Tesla", "Guglielmo Marconi"],
+    "correctAnswer": "Alexander Graham Bell"
+  },
+  {
+    "question": "What is the national animal of India?",
+    "options": ["Bengal Tiger", "Elephant", "Lion", "Leopard"],
+    "correctAnswer": "Bengal Tiger"
+  },
+  {
+    "question": "Who is the Greek god of the sea?",
+    "options": ["Poseidon", "Zeus", "Hades", "Apollo"],
+    "correctAnswer": "Poseidon"
+  },
+  {
+    "question": "What is the largest mammal on Earth?",
+    "options": ["Blue Whale", "African Elephant", "Giraffe", "Hippopotamus"],
+    "correctAnswer": "Blue Whale"
+  },
+  {
+    "question": "Which city is known as the 'Eternal City'?",
+    "options": ["Rome", "Athens", "Paris", "Cairo"],
+    "correctAnswer": "Rome"
+  },
+  {
+    "question": "Who painted the ceiling of the Sistine Chapel?",
+    "options": ["Michelangelo", "Leonardo da Vinci", "Pablo Picasso", "Vincent van Gogh"],
+    "correctAnswer": "Michelangelo"
+  },
+  {
+    "question": "Which country is known as the 'Land of Fire and Ice'?",
+    "options": ["Iceland", "Greenland", "Norway", "Canada"],
+    "correctAnswer": "Iceland"
+  },
+  {
+    "question": "What is the largest desert in the world?",
+    "options": ["Sahara Desert", "Arabian Desert", "Gobi Desert", "Kalahari Desert"],
+    "correctAnswer": "Sahara Desert"
+  },
+  {
+    "question": "Who is the author of the novel To Kill a Mockingbird?",
+    "options": ["Harper Lee", "F. Scott Fitzgerald", "Ernest Hemingway", "Mark Twain"],
+    "correctAnswer": "Harper Lee"
+  },
+  {
+    "question": "Which planet is known as the 'Morning Star' or 'Evening Star'?",
+    "options": ["Venus", "Mercury", "Mars", "Jupiter"],
+    "correctAnswer": "Venus"
+  },
+  {
+    "question": "Who was the first person to walk on the Moon?",
+    "options": ["Neil Armstrong", "Buzz Aldrin", "Yuri Gagarin", "Alan Shepard"],
+    "correctAnswer": "Neil Armstrong"
+  },
+  {
+    "question": "Which country is known as the 'Land of the Midnight Sun'?",
+    "options": ["Norway", "Sweden", "Finland", "Denmark"],
+    "correctAnswer": "Norway"
+  },
+  {
+    "question": "What is the chemical symbol for water?",
+    "options": ["H2O", "CO2", "O2", "NaCl"],
+    "correctAnswer": "H2O"
+  },
+  {
+    "question": "Who wrote the novel 1984?",
+    "options": ["George Orwell", "Aldous Huxley", "Ray Bradbury", "George R.R. Martin"],
+    "correctAnswer": "George Orwell"
+  },
+  {
+    "question": "Which country is home to the famous Taj Mahal?",
+    "options": ["India", "China", "Japan", "Egypt"],
+    "correctAnswer": "India"
+  },
+  {
+    "question": "What is the largest river in the world?",
+    "options": ["Amazon River", "Nile River", "Yangtze River", "Mississippi River"],
+    "correctAnswer": "Amazon River"
+  },
+  {
+    "question": "Who is the author of the novel The Great Gatsby?",
+    "options": ["F. Scott Fitzgerald", "Jane Austen", "William Shakespeare", "Charles Dickens"],
+    "correctAnswer": "F. Scott Fitzgerald"
+  },
+  {
+    "question": "Which country is known as the 'Land of Smiles'?",
+    "options": ["Thailand", "Indonesia", "Vietnam", "Malaysia"],
+    "correctAnswer": "Thailand"
+  },
+  {
+    "question": "What is the largest volcano in the world?",
+    "options": ["Mauna Loa", "Mount Vesuvius", "Mount Fuji", "Mount Etna"],
+    "correctAnswer": "Mauna Loa"
+  },
+  {
+    "question": "Who is the author of the play Hamlet?",
+    "options": ["William Shakespeare", "Arthur Miller", "Tennessee Williams", "Oscar Wilde"],
+    "correctAnswer": "William Shakespeare"
+  },
+  {
+    "question": "Which country won the FIFA World Cup 2014?",
+    "options": ["Germany", "Argentina", "Brazil", "Spain"],
+    "correctAnswer": "Germany"
+  },
+  {
+    "question": "What is the deepest ocean in the world?",
+    "options": ["Pacific Ocean", "Atlantic Ocean", "Indian Ocean", "Arctic Ocean"],
+    "correctAnswer": "Pacific Ocean"
+  },
+  {
+    "question": "Who wrote the novel Moby-Dick?",
+    "options": ["Herman Melville", "Emily Bronte", "Charlotte Bronte", "Mark Twain"],
+    "correctAnswer": "Herman Melville"
+  },
+  {
+    "question": "Which country is known as the 'Land of the Rising Sun'?",
+    "options": ["Japan", "China", "South Korea", "Vietnam"],
+    "correctAnswer": "Japan"
+  },
+  {
+    "question": "What is the largest organ in the human body?",
+    "options": ["Skin", "Heart", "Liver", "Brain"],
+    "correctAnswer": "Skin"
+  },
+  {
+    "question": "Who discovered gravity?",
+    "options": ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "Nikola Tesla"],
+    "correctAnswer": "Isaac Newton"
+  },
+  {
+    "question": "Which country is home to the Great Barrier Reef?",
+    "options": ["Australia", "Brazil", "India", "Mexico"],
+    "correctAnswer": "Australia"
+  },
+  {
+    "question": "Who is the author of the Harry Potter book series?",
+    "options": ["J.K. Rowling", "Stephen King", "George R.R. Martin", "Dan Brown"],
+    "correctAnswer": "J.K. Rowling"
+  },
+  {
+    "question": "Which instrument is known as the 'king of instruments'?",
+    "options": ["Pipe Organ", "Violin", "Piano", "Guitar"],
+    "correctAnswer": "Pipe Organ"
+  },
+  {
+    "question": "Who invented the telephone?",
+    "options": ["Alexander Graham Bell", "Thomas Edison", "Nikola Tesla", "Guglielmo Marconi"],
+    "correctAnswer": "Alexander Graham Bell"
+  },
+  {
+    "question": "What is the national animal of India?",
+    "options": ["Bengal Tiger", "Elephant", "Lion", "Leopard"],
+    "correctAnswer": "Bengal Tiger"
+  },
+  {
+    "question": "Who is the Greek god of the sea?",
+    "options": ["Poseidon", "Zeus", "Hades", "Apollo"],
+    "correctAnswer": "Poseidon"
+  },
+  {
+    "question": "What is the largest mammal on Earth?",
+    "options": ["Blue Whale", "African Elephant", "Giraffe", "Hippopotamus"],
+    "correctAnswer": "Blue Whale"
+  },
+  {
+    "question": "Which city is known as the 'Eternal City'?",
+    "options": ["Rome", "Athens", "Paris", "Cairo"],
+    "correctAnswer": "Rome"
+  },
+  {
+    "question": "Who painted the ceiling of the Sistine Chapel?",
+    "options": ["Michelangelo", "Leonardo da Vinci", "Pablo Picasso", "Vincent van Gogh"],
+    "correctAnswer": "Michelangelo"
+  },
+  {
+    "question": "Which country is known as the 'Land of Fire and Ice'?",
+    "options": ["Iceland", "Greenland", "Norway", "Canada"],
+    "correctAnswer": "Iceland"
+  },
+  {
+    "question": "What is the largest desert in the world?",
+    "options": ["Sahara Desert", "Arabian Desert", "Gobi Desert", "Kalahari Desert"],
+    "correctAnswer": "Sahara Desert"
+  },
+  {
+    "question": "Who is the author of the novel To Kill a Mockingbird?",
+    "options": ["Harper Lee", "F. Scott Fitzgerald", "Ernest Hemingway", "Mark Twain"],
+    "correctAnswer": "Harper Lee"
+  },
+  {
+    "question": "Which planet is known as the 'Morning Star' or 'Evening Star'?",
+    "options": ["Venus", "Mercury", "Mars", "Jupiter"],
+    "correctAnswer": "Venus"
+  },
+  {
+    "question": "Who was the first person to walk on the Moon?",
+    "options": ["Neil Armstrong", "Buzz Aldrin", "Yuri Gagarin", "Alan Shepard"],
+    "correctAnswer": "Neil Armstrong"
+  },
+  {
+    "question": "Which country is known as the 'Land of the Midnight Sun'?",
+    "options": ["Norway", "Sweden", "Finland", "Denmark"],
+    "correctAnswer": "Norway"
+  },
+  {
+    "question": "What is the chemical symbol for water?",
+    "options": ["H2O", "CO2", "O2", "NaCl"],
+    "correctAnswer": "H2O"
+  },
+  {
+    "question": "Who wrote the novel 1984?",
+    "options": ["George Orwell", "Aldous Huxley", "Ray Bradbury", "George R.R. Martin"],
+    "correctAnswer": "George Orwell"
+  },
+  {
+    "question": "Which country is home to the famous Taj Mahal?",
+    "options": ["India", "China", "Japan", "Egypt"],
+    "correctAnswer": "India"
+  },
+  {
+    "question": "What is the largest river in the world?",
+    "options": ["Amazon River", "Nile River", "Yangtze River", "Mississippi River"],
+    "correctAnswer": "Amazon River"
+  },
+  {
+    "question": "Who is the author of the novel The Great Gatsby?",
+    "options": ["F. Scott Fitzgerald", "Jane Austen", "William Shakespeare", "Charles Dickens"],
+    "correctAnswer": "F. Scott Fitzgerald"
+  },
+  {
+    "question": "Which country is known as the 'Land of Smiles'?",
+    "options": ["Thailand", "Indonesia", "Vietnam", "Malaysia"],
+    "correctAnswer": "Thailand"
+  },
+  {
+    "question": "What is the largest volcano in the world?",
+    "options": ["Mauna Loa", "Mount Vesuvius", "Mount Fuji", "Mount Etna"],
+    "correctAnswer": "Mauna Loa"
+  },
+  {
+    "question": "Who is the author of the play Hamlet?",
+    "options": ["William Shakespeare", "Arthur Miller", "Tennessee Williams", "Oscar Wilde"],
+    "correctAnswer": "William Shakespeare"
+  },
+  {
+    "question": "Which country won the FIFA World Cup 2014?",
+    "options": ["Germany", "Argentina", "Brazil", "Spain"],
+    "correctAnswer": "Germany"
+  },
+  {
+    "question": "What is the deepest ocean in the world?",
+    "options": ["Pacific Ocean", "Atlantic Ocean", "Indian Ocean", "Arctic Ocean"],
+    "correctAnswer": "Pacific Ocean"
+  },
+  {
+    "question": "Who wrote the novel Moby-Dick?",
+    "options": ["Herman Melville", "Emily Bronte", "Charlotte Bronte", "Mark Twain"],
+    "correctAnswer": "Herman Melville"
+  },
+  {
+    "question": "Which country is known as the 'Land of the Rising Sun'?",
+    "options": ["Japan", "China", "South Korea", "Vietnam"],
+    "correctAnswer": "Japan"
+  },
+  {
+    "question": "What is the largest organ in the human body?",
+    "options": ["Skin", "Heart", "Liver", "Brain"],
+    "correctAnswer": "Skin"
+  },
+  {
+    "question": "Who discovered gravity?",
+    "options": ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "Nikola Tesla"],
+    "correctAnswer": "Isaac Newton"
+  },
+  {
+    "question": "Which country is home to the Great Barrier Reef?",
+    "options": ["Australia", "Brazil", "India", "Mexico"],
+    "correctAnswer": "Australia"
+  },
+  {
+    "question": "Who is the author of the Harry Potter book series?",
+    "options": ["J.K. Rowling", "Stephen King", "George R.R. Martin", "Dan Brown"],
+    "correctAnswer": "J.K. Rowling"
+  },
+  {
+    "question": "Which instrument is known as the 'king of instruments'?",
+    "options": ["Pipe Organ", "Violin", "Piano", "Guitar"],
+    "correctAnswer": "Pipe Organ"
+  },
+  {
+    "question": "Who invented the telephone?",
+    "options": ["Alexander Graham Bell", "Thomas Edison", "Nikola Tesla", "Guglielmo Marconi"],
+    "correctAnswer": "Alexander Graham Bell"
+  },
+  {
+    "question": "What is the national animal of India?",
+    "options": ["Bengal Tiger", "Elephant", "Lion", "Leopard"],
+    "correctAnswer": "Bengal Tiger"
+  },
+  {
+    "question": "Who is the Greek god of the sea?",
+    "options": ["Poseidon", "Zeus", "Hades", "Apollo"],
+    "correctAnswer": "Poseidon"
+  },
+  {
+    "question": "What is the largest mammal on Earth?",
+    "options": ["Blue Whale", "African Elephant", "Giraffe", "Hippopotamus"],
+    "correctAnswer": "Blue Whale"
+  },
+  {
+    "question": "Which city is known as the 'Eternal City'?",
+    "options": ["Rome", "Athens", "Paris", "Cairo"],
+    "correctAnswer": "Rome"
+  },
+  {
+    "question": "Who painted the ceiling of the Sistine Chapel?",
+    "options": ["Michelangelo", "Leonardo da Vinci", "Pablo Picasso", "Vincent van Gogh"],
+    "correctAnswer": "Michelangelo"
+  },
+  {
+    "question": "Which country is known as the 'Land of Fire and Ice'?",
+    "options": ["Iceland", "Greenland", "Norway", "Canada"],
+    "correctAnswer": "Iceland"
+  },
+  {
+    "question": "What is the largest desert in the world?",
+    "options": ["Sahara Desert", "Arabian Desert", "Gobi Desert", "Kalahari Desert"],
+    "correctAnswer": "Sahara Desert"
+  },
+  {
+    "question": "Who is the author of the novel To Kill a Mockingbird?",
+    "options": ["Harper Lee", "F. Scott Fitzgerald", "Ernest Hemingway", "Mark Twain"],
+    "correctAnswer": "Harper Lee"
+  },
+  {
+    "question": "Which planet is known as the 'Morning Star' or 'Evening Star'?",
+    "options": ["Venus", "Mercury", "Mars", "Jupiter"],
+    "correctAnswer": "Venus"
+  },
+  {
+    "question": "Who was the first person to walk on the Moon?",
+    "options": ["Neil Armstrong", "Buzz Aldrin", "Yuri Gagarin", "Alan Shepard"],
+    "correctAnswer": "Neil Armstrong"
+  },
+  {
+    "question": "Which country is known as the 'Land of the Midnight Sun'?",
+    "options": ["Norway", "Sweden", "Finland", "Denmark"],
+    "correctAnswer": "Norway"
+  },
+  {
+    "question": "What is the chemical symbol for water?",
+    "options": ["H2O", "CO2", "O2", "NaCl"],
+    "correctAnswer": "H2O"
+  },
+  {
+    "question": "Who wrote the novel 1984?",
+    "options": ["George Orwell", "Aldous Huxley", "Ray Bradbury", "George R.R. Martin"],
+    "correctAnswer": "George Orwell"
+  },
+  {
+    "question": "Which country is home to the famous Taj Mahal?",
+    "options": ["India", "China", "Japan", "Egypt"],
+    "correctAnswer": "India"
+  },
+  {
+    "question": "What is the largest river in the world?",
+    "options": ["Amazon River", "Nile River", "Yangtze River", "Mississippi River"],
+    "correctAnswer": "Amazon River"
+  },
+  {
+    "question": "Who is the author of the novel The Great Gatsby?",
+    "options": ["F. Scott Fitzgerald", "Jane Austen", "William Shakespeare", "Charles Dickens"],
+    "correctAnswer": "F. Scott Fitzgerald"
+  },
+  {
+    "question": "Which country is known as the 'Land of Smiles'?",
+    "options": ["Thailand", "Indonesia", "Vietnam", "Malaysia"],
+    "correctAnswer": "Thailand"
+  },
+  {
+    "question": "What is the largest volcano in the world?",
+    "options": ["Mauna Loa", "Mount Vesuvius", "Mount Fuji", "Mount Etna"],
+    "correctAnswer": "Mauna Loa"
+  },
+  {
+    "question": "Who is the author of the play Hamlet?",
+    "options": ["William Shakespeare", "Arthur Miller", "Tennessee Williams", "Oscar Wilde"],
+    "correctAnswer": "William Shakespeare"
+  },
+  {
+    "question": "Which country won the FIFA World Cup 2014?",
+    "options": ["Germany", "Argentina", "Brazil", "Spain"],
+    "correctAnswer": "Germany"
+  },
+  {
+    "question": "What is the deepest ocean in the world?",
+    "options": ["Pacific Ocean", "Atlantic Ocean", "Indian Ocean", "Arctic Ocean"],
+    "correctAnswer": "Pacific Ocean"
+  },
+  {
+    "question": "Who wrote the novel Moby-Dick?",
+    "options": ["Herman Melville", "Emily Bronte", "Charlotte Bronte", "Mark Twain"],
+    "correctAnswer": "Herman Melville"
+  },
+  {
+    "question": "Which country is known as the 'Land of the Rising Sun'?",
+    "options": ["Japan", "China", "South Korea", "Vietnam"],
+    "correctAnswer": "Japan"
+  },
+  {
+    "question": "What is the largest organ in the human body?",
+    "options": ["Skin", "Heart", "Liver", "Brain"],
+    "correctAnswer": "Skin"
+  },
+  {
+    "question": "Who discovered gravity?",
+    "options": ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "Nikola Tesla"],
+    "correctAnswer": "Isaac Newton"
+  },
+  {
+    "question": "Which country is home to the Great Barrier Reef?",
+    "options": ["Australia", "Brazil", "India", "Mexico"],
+    "correctAnswer": "Australia"
+  },
+  {
+    "question": "Who is the author of the Harry Potter book series?",
+    "options": ["J.K. Rowling", "Stephen King", "George R.R. Martin", "Dan Brown"],
+    "correctAnswer": "J.K. Rowling"
+  },
+  {
+    "question": "Which instrument is known as the 'king of instruments'?",
+    "options": ["Pipe Organ", "Violin", "Piano", "Guitar"],
+    "correctAnswer": "Pipe Organ"
+  },
+  {
+    "question": "Who invented the telephone?",
+    "options": ["Alexander Graham Bell", "Thomas Edison", "Nikola Tesla", "Guglielmo Marconi"],
+    "correctAnswer": "Alexander Graham Bell"
+  },
+  {
+    "question": "What is the national animal of India?",
+    "options": ["Bengal Tiger", "Elephant", "Lion", "Leopard"],
+    "correctAnswer": "Bengal Tiger"
+  },
+  {
+    "question": "Who is the Greek god of the sea?",
+    "options": ["Poseidon", "Zeus", "Hades", "Apollo"],
+    "correctAnswer": "Poseidon"
+  },
+  {
+    "question": "What is the largest mammal on Earth?",
+    "options": ["Blue Whale", "African Elephant", "Giraffe", "Hippopotamus"],
+    "correctAnswer": "Blue Whale"
+  },
+  {
+    "question": "Which city is known as the 'Eternal City'?",
+    "options": ["Rome", "Athens", "Paris", "Cairo"],
+    "correctAnswer": "Rome"
+  },
+  {
+    "question": "Who painted the ceiling of the Sistine Chapel?",
+    "options": ["Michelangelo", "Leonardo da Vinci", "Pablo Picasso", "Vincent van Gogh"],
+    "correctAnswer": "Michelangelo"
+  },
+  {
+    "question": "Which country is known as the 'Land of Fire and Ice'?",
+    "options": ["Iceland", "Greenland", "Norway", "Canada"],
+    "correctAnswer": "Iceland"
+  },
+  {
+    "question": "What is the largest desert in the world?",
+    "options": ["Sahara Desert", "Arabian Desert", "Gobi Desert", "Kalahari Desert"],
+    "correctAnswer": "Sahara Desert"
+  },
+  {
+    "question": "Who is the author of the novel To Kill a Mockingbird?",
+    "options": ["Harper Lee", "F. Scott Fitzgerald", "Ernest Hemingway", "Mark Twain"],
+    "correctAnswer": "Harper Lee"
+  },
+  {
+    "question": "Which planet is known as the 'Morning Star' or 'Evening Star'?",
+    "options": ["Venus", "Mercury", "Mars", "Jupiter"],
+    "correctAnswer": "Venus"
+  },
+  {
+    "question": "Who was the first person to walk on the Moon?",
+    "options": ["Neil Armstrong", "Buzz Aldrin", "Yuri Gagarin", "Alan Shepard"],
+    "correctAnswer": "Neil Armstrong"
+  },
+  {
+    "question": "Which country is known as the 'Land of the Midnight Sun'?",
+    "options": ["Norway", "Sweden", "Finland", "Denmark"],
+    "correctAnswer": "Norway"
+  },
+  {
+    "question": "What is the chemical symbol for water?",
+    "options": ["H2O", "CO2", "O2", "NaCl"],
+    "correctAnswer": "H2O"
+  },
+  {
+    "question": "Who wrote the novel 1984?",
+    "options": ["George Orwell", "Aldous Huxley", "Ray Bradbury", "George R.R. Martin"],
+    "correctAnswer": "George Orwell"
+  },
+  {
+    "question": "Which country is home to the famous Taj Mahal?",
+    "options": ["India", "China", "Japan", "Egypt"],
+    "correctAnswer": "India"
+  },
+  {
+    "question": "What is the largest river in the world?",
+    "options": ["Amazon River", "Nile River", "Yangtze River", "Mississippi River"],
+    "correctAnswer": "Amazon River"
+  },
+  {
+    "question": "Who is the author of the novel The Great Gatsby?",
+    "options": ["F. Scott Fitzgerald", "Jane Austen", "William Shakespeare", "Charles Dickens"],
+    "correctAnswer": "F. Scott Fitzgerald"
+  },
+  {
+    "question": "Which country is known as the 'Land of Smiles'?",
+    "options": ["Thailand", "Indonesia", "Vietnam", "Malaysia"],
+    "correctAnswer": "Thailand"
+  },
+  {
+    "question": "What is the largest volcano in the world?",
+    "options": ["Mauna Loa", "Mount Vesuvius", "Mount Fuji", "Mount Etna"],
+    "correctAnswer": "Mauna Loa"
+  },
+  {
+    "question": "Who is the author of the play Hamlet?",
+    "options": ["William Shakespeare", "Arthur Miller", "Tennessee Williams", "Oscar Wilde"],
+    "correctAnswer": "William Shakespeare"
+  },
+  {
+    "question": "Which country won the FIFA World Cup 2014?",
+    "options": ["Germany", "Argentina", "Brazil", "Spain"],
+    "correctAnswer": "Germany"
+  },
+  {
+    "question": "What is the deepest ocean in the world?",
+    "options": ["Pacific Ocean", "Atlantic Ocean", "Indian Ocean", "Arctic Ocean"],
+    "correctAnswer": "Pacific Ocean"
+  },
+  {
+    "question": "Who wrote the novel Moby-Dick?",
+    "options": ["Herman Melville", "Emily Bronte", "Charlotte Bronte", "Mark Twain"],
+    "correctAnswer": "Herman Melville"
+  },
+  {
+    "question": "Which country is known as the 'Land of the Rising Sun'?",
+    "options": ["Japan", "China", "South Korea", "Vietnam"],
+    "correctAnswer": "Japan"
+  },
+  {
+    "question": "What is the largest organ in the human body?",
+    "options": ["Skin", "Heart", "Liver", "Brain"],
+    "correctAnswer": "Skin"
+  },
+  {
+    "question": "Who discovered gravity?",
+    "options": ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "Nikola Tesla"],
+    "correctAnswer": "Isaac Newton"
+  },
+  {
+    "question": "Which country is home to the Great Barrier Reef?",
+    "options": ["Australia", "Brazil", "India", "Mexico"],
+    "correctAnswer": "Australia"
+  },
+  {
+    "question": "Who is the author of the Harry Potter book series?",
+    "options": ["J.K. Rowling", "Stephen King", "George R.R. Martin", "Dan Brown"],
+    "correctAnswer": "J.K. Rowling"
+  },
+  {
+    "question": "Which instrument is known as the 'king of instruments'?",
+    "options": ["Pipe Organ", "Violin", "Piano", "Guitar"],
+    "correctAnswer": "Pipe Organ"
+  },
+  {
+    "question": "Who invented the telephone?",
+    "options": ["Alexander Graham Bell", "Thomas Edison", "Nikola Tesla", "Guglielmo Marconi"],
+    "correctAnswer": "Alexander Graham Bell"
+  },
+  {
+    "question": "What is the national animal of India?",
+    "options": ["Bengal Tiger", "Elephant", "Lion", "Leopard"],
+    "correctAnswer": "Bengal Tiger"
+  },
+  {
+    "question": "Who is the Greek god of the sea?",
+    "options": ["Poseidon", "Zeus", "Hades", "Apollo"],
+    "correctAnswer": "Poseidon"
+  },
+  {
+    "question": "What is the largest mammal on Earth?",
+    "options": ["Blue Whale", "African Elephant", "Giraffe", "Hippopotamus"],
+    "correctAnswer": "Blue Whale"
+  },
+  {
+    "question": "Which city is known as the 'Eternal City'?",
+    "options": ["Rome", "Athens", "Paris", "Cairo"],
+    "correctAnswer": "Rome"
+  },
+  {
+    "question": "Who painted the ceiling of the Sistine Chapel?",
+    "options": ["Michelangelo", "Leonardo da Vinci", "Pablo Picasso", "Vincent van Gogh"],
+    "correctAnswer": "Michelangelo"
+  },
+  {
+    "question": "Which country is known as the 'Land of Fire and Ice'?",
+    "options": ["Iceland", "Greenland", "Norway", "Canada"],
+    "correctAnswer": "Iceland"
+  },
+  {
+    "question": "What is the largest desert in the world?",
+    "options": ["Sahara Desert", "Arabian Desert", "Gobi Desert", "Kalahari Desert"],
+    "correctAnswer": "Sahara Desert"
+  },
+  {
+    "question": "Who is the author of the novel To Kill a Mockingbird?",
+    "options": ["Harper Lee", "F. Scott Fitzgerald", "Ernest Hemingway", "Mark Twain"],
+    "correctAnswer": "Harper Lee"
+  },
+  {
+    "question": "Which planet is known as the 'Morning Star' or 'Evening Star'?",
+    "options": ["Venus", "Mercury", "Mars", "Jupiter"],
+    "correctAnswer": "Venus"
+  },
+  {
+    "question": "Who was the first person to walk on the Moon?",
+    "options": ["Neil Armstrong", "Buzz Aldrin", "Yuri Gagarin", "Alan Shepard"],
+    "correctAnswer": "Neil Armstrong"
+  },
+  {
+    "question": "Which country is known as the 'Land of the Midnight Sun'?",
+    "options": ["Norway", "Sweden", "Finland", "Denmark"],
+    "correctAnswer": "Norway"
+  },
+  {
+    "question": "What is the chemical symbol for water?",
+    "options": ["H2O", "CO2", "O2", "NaCl"],
+    "correctAnswer": "H2O"
+  },
+  {
+    "question": "Who wrote the novel 1984?",
+    "options": ["George Orwell", "Aldous Huxley", "Ray Bradbury", "George R.R. Martin"],
+    "correctAnswer": "George Orwell"
+  },
+  {
+    "question": "Which country is home to the famous Taj Mahal?",
+    "options": ["India", "China", "Japan", "Egypt"],
+    "correctAnswer": "India"
+  },
+  {
+    "question": "What is the largest river in the world?",
+    "options": ["Amazon River", "Nile River", "Yangtze River", "Mississippi River"],
+    "correctAnswer": "Amazon River"
+  },
+  {
+    "question": "Who is the author of the novel The Great Gatsby?",
+    "options": ["F. Scott Fitzgerald", "Jane Austen", "William Shakespeare", "Charles Dickens"],
+    "correctAnswer": "F. Scott Fitzgerald"
+  },
+  {
+    "question": "Which country is known as the 'Land of Smiles'?",
+    "options": ["Thailand", "Indonesia", "Vietnam", "Malaysia"],
+    "correctAnswer": "Thailand"
+  },
+  {
+    "question": "What is the largest volcano in the world?",
+    "options": ["Mauna Loa", "Mount Vesuvius", "Mount Fuji", "Mount Etna"],
+    "correctAnswer": "Mauna Loa"
+  },
+  {
+    "question": "Who is the author of the play Hamlet?",
+    "options": ["William Shakespeare", "Arthur Miller", "Tennessee Williams", "Oscar Wilde"],
+    "correctAnswer": "William Shakespeare"
+  },
+  {
+    "question": "Which country won the FIFA World Cup 2014?",
+    "options": ["Germany", "Argentina", "Brazil", "Spain"],
+    "correctAnswer": "Germany"
+  },
+  {
+    "question": "What is the deepest ocean in the world?",
+    "options": ["Pacific Ocean", "Atlantic Ocean", "Indian Ocean", "Arctic Ocean"],
+    "correctAnswer": "Pacific Ocean"
+  },
+  {
+    "question": "Who wrote the novel Moby-Dick?",
+    "options": ["Herman Melville", "Emily Bronte", "Charlotte Bronte", "Mark Twain"],
+    "correctAnswer": "Herman Melville"
+  },
+  {
+    "question": "Which country is known as the 'Land of the Rising Sun'?",
+    "options": ["Japan", "China", "South Korea", "Vietnam"],
+    "correctAnswer": "Japan"
+  },
+  {
+    "question": "What is the largest organ in the human body?",
+    "options": ["Skin", "Heart", "Liver", "Brain"],
+    "correctAnswer": "Skin"
+  },
+  {
+    "question": "Who discovered gravity?",
+    "options": ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "Nikola Tesla"],
+    "correctAnswer": "Isaac Newton"
+  },
+  {
+    "question": "Which country is home to the Great Barrier Reef?",
+    "options": ["Australia", "Brazil", "India", "Mexico"],
+    "correctAnswer": "Australia"
+  },
+  {
+    "question": "Who is the author of the Harry Potter book series?",
+    "options": ["J.K. Rowling", "Stephen King", "George R.R. Martin", "Dan Brown"],
+    "correctAnswer": "J.K. Rowling"
+  },
+  {
+    "question": "Which instrument is known as the 'king of instruments'?",
+    "options": ["Pipe Organ", "Violin", "Piano", "Guitar"],
+    "correctAnswer": "Pipe Organ"
+  },
+  {
+    "question": "Who invented the telephone?",
+    "options": ["Alexander Graham Bell", "Thomas Edison", "Nikola Tesla", "Guglielmo Marconi"],
+    "correctAnswer": "Alexander Graham Bell"
+  },
+  {
+    "question": "What is the national animal of India?",
+    "options": ["Bengal Tiger", "Elephant", "Lion", "Leopard"],
+    "correctAnswer": "Bengal Tiger"
+  },
+  {
+    "question": "Who is the Greek god of the sea?",
+    "options": ["Poseidon", "Zeus", "Hades", "Apollo"],
+    "correctAnswer": "Poseidon"
+  },
+  {
+    "question": "What is the largest mammal on Earth?",
+    "options": ["Blue Whale", "African Elephant", "Giraffe", "Hippopotamus"],
+    "correctAnswer": "Blue Whale"
+  },
+  {
+    "question": "Which city is known as the 'Eternal City'?",
+    "options": ["Rome", "Athens", "Paris", "Cairo"],
+    "correctAnswer": "Rome"
+  },
+  {
+    "question": "Who painted the ceiling of the Sistine Chapel?",
+    "options": ["Michelangelo", "Leonardo da Vinci", "Pablo Picasso", "Vincent van Gogh"],
+    "correctAnswer": "Michelangelo"
+  },
+  {
+    "question": "Which country is known as the 'Land of Fire and Ice'?",
+    "options": ["Iceland", "Greenland", "Norway", "Canada"],
+    "correctAnswer": "Iceland"
+  },
+  {
+    "question": "What is the largest desert in the world?",
+    "options": ["Sahara Desert", "Arabian Desert", "Gobi Desert", "Kalahari Desert"],
+    "correctAnswer": "Sahara Desert"
+  },
+  {
+    "question": "Who is the author of the novel To Kill a Mockingbird?",
+    "options": ["Harper Lee", "F. Scott Fitzgerald", "Ernest Hemingway", "Mark Twain"],
+    "correctAnswer": "Harper Lee"
+  },
+  {
+    "question": "Which planet is known as the 'Morning Star' or 'Evening Star'?",
+    "options": ["Venus", "Mercury", "Mars", "Jupiter"],
+    "correctAnswer": "Venus"
+  },
+  {
+    "question": "Who was the first person to walk on the Moon?",
+    "options": ["Neil Armstrong", "Buzz Aldrin", "Yuri Gagarin", "Alan Shepard"],
+    "correctAnswer": "Neil Armstrong"
+  },
+  {
+    "question": "Which country is known as the 'Land of the Midnight Sun'?",
+    "options": ["Norway", "Sweden", "Finland", "Denmark"],
+    "correctAnswer": "Norway"
+  },
+  {
+    "question": "What is the chemical symbol for water?",
+    "options": ["H2O", "CO2", "O2", "NaCl"],
+    "correctAnswer": "H2O"
+  },
+  {
+    "question": "Who wrote the novel 1984?",
+    "options": ["George Orwell", "Aldous Huxley", "Ray Bradbury", "George R.R. Martin"],
+    "correctAnswer": "George Orwell"
+  },
+  {
+    "question": "Which country is home to the famous Taj Mahal?",
+    "options": ["India", "China", "Japan", "Egypt"],
+    "correctAnswer": "India"
+  },
+  {
+    "question": "What is the largest river in the world?",
+    "options": ["Amazon River", "Nile River", "Yangtze River", "Mississippi River"],
+    "correctAnswer": "Amazon River"
+  },
+  {
+    "question": "Who is the author of the novel The Great Gatsby?",
+    "options": ["F. Scott Fitzgerald", "Jane Austen", "William Shakespeare", "Charles Dickens"],
+    "correctAnswer": "F. Scott Fitzgerald"
+  },
+  {
+    "question": "Which country is known as the 'Land of Smiles'?",
+    "options": ["Thailand", "Indonesia", "Vietnam", "Malaysia"],
+    "correctAnswer": "Thailand"
+  },
+  {
+    "question": "What is the largest volcano in the world?",
+    "options": ["Mauna Loa", "Mount Vesuvius", "Mount Fuji", "Mount Etna"],
+    "correctAnswer": "Mauna Loa"
+  },
+  {
+    "question": "Who is the author of the play Hamlet?",
+    "options": ["William Shakespeare", "Arthur Miller", "Tennessee Williams", "Oscar Wilde"],
+    "correctAnswer": "William Shakespeare"
+  },
+  {
+    "question": "Which country won the FIFA World Cup 2014?",
+    "options": ["Germany", "Argentina", "Brazil", "Spain"],
+    "correctAnswer": "Germany"
+  },
+  {
+    "question": "What is the deepest ocean in the world?",
+    "options": ["Pacific Ocean", "Atlantic Ocean", "Indian Ocean", "Arctic Ocean"],
+    "correctAnswer": "Pacific Ocean"
+  },
+  {
+    "question": "Who wrote the novel Moby-Dick?",
+    "options": ["Herman Melville", "Emily Bronte", "Charlotte Bronte", "Mark Twain"],
+    "correctAnswer": "Herman Melville"
+  },
+  {
+    "question": "Which country is known as the 'Land of the Rising Sun'?",
+    "options": ["Japan", "China", "South Korea", "Vietnam"],
+    "correctAnswer": "Japan"
+  },
+  {
+    "question": "What is the largest organ in the human body?",
+    "options": ["Skin", "Heart", "Liver", "Brain"],
+    "correctAnswer": "Skin"
+  },
+  {
+    "question": "Who discovered gravity?",
+    "options": ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "Nikola Tesla"],
+    "correctAnswer": "Isaac Newton"
+  },
+  {
+    "question": "Which country is home to the Great Barrier Reef?",
+    "options": ["Australia", "Brazil", "India", "Mexico"],
+    "correctAnswer": "Australia"
+  },
+  {
+    "question": "Who is the author of the Harry Potter book series?",
+    "options": ["J.K. Rowling", "Stephen King", "George R.R. Martin", "Dan Brown"],
+    "correctAnswer": "J.K. Rowling"
+  },
+  {
+    "question": "Which instrument is known as the 'king of instruments'?",
+    "options": ["Pipe Organ", "Violin", "Piano", "Guitar"],
+    "correctAnswer": "Pipe Organ"
+  },
+  {
+    "question": "Who invented the telephone?",
+    "options": ["Alexander Graham Bell", "Thomas Edison", "Nikola Tesla", "Guglielmo Marconi"],
+    "correctAnswer": "Alexander Graham Bell"
+  },
+  {
+    "question": "What is the national animal of India?",
+    "options": ["Bengal Tiger", "Elephant", "Lion", "Leopard"],
+    "correctAnswer": "Bengal Tiger"
+  },
+  {
+    "question": "Who is the Greek god of the sea?",
+    "options": ["Poseidon", "Zeus", "Hades", "Apollo"],
+    "correctAnswer": "Poseidon"
+  },
+  {
+    "question": "What is the largest mammal on Earth?",
+    "options": ["Blue Whale", "African Elephant", "Giraffe", "Hippopotamus"],
+    "correctAnswer": "Blue Whale"
+  },
+  {
+    "question": "Which city is known as the 'Eternal City'?",
+    "options": ["Rome", "Athens", "Paris", "Cairo"],
+    "correctAnswer": "Rome"
+  },
+  {
+    "question": "Who painted the ceiling of the Sistine Chapel?",
+    "options": ["Michelangelo", "Leonardo da Vinci", "Pablo Picasso", "Vincent van Gogh"],
+    "correctAnswer": "Michelangelo"
+  },
+  {
+    "question": "Which country is known as the 'Land of Fire and Ice'?",
+    "options": ["Iceland", "Greenland", "Norway", "Canada"],
+    "correctAnswer": "Iceland"
+  },
+  {
+    "question": "What is the largest desert in the world?",
+    "options": ["Sahara Desert", "Arabian Desert", "Gobi Desert", "Kalahari Desert"],
+    "correctAnswer": "Sahara Desert"
+  },
+  {
+    "question": "Who is the author of the novel To Kill a Mockingbird?",
+    "options": ["Harper Lee", "F. Scott Fitzgerald", "Ernest Hemingway", "Mark Twain"],
+    "correctAnswer": "Harper Lee"
+  },
+  {
+    "question": "Which planet is known as the 'Morning Star' or 'Evening Star'?",
+    "options": ["Venus", "Mercury", "Mars", "Jupiter"],
+    "correctAnswer": "Venus"
+  },
+  {
+    "question": "Who was the first person to walk on the Moon?",
+    "options": ["Neil Armstrong", "Buzz Aldrin", "Yuri Gagarin", "Alan Shepard"],
+    "correctAnswer": "Neil Armstrong"
+  },
+  {
+    "question": "Which country is known as the 'Land of the Midnight Sun'?",
+    "options": ["Norway", "Sweden", "Finland", "Denmark"],
+    "correctAnswer": "Norway"
+  },
+  {
+    "question": "What is the chemical symbol for water?",
+    "options": ["H2O", "CO2", "O2", "NaCl"],
+    "correctAnswer": "H2O"
+  },
+  {
+    "question": "Who wrote the novel 1984?",
+    "options": ["George Orwell", "Aldous Huxley", "Ray Bradbury", "George R.R. Martin"],
+    "correctAnswer": "George Orwell"
+  },
+  {
+    "question": "Which country is home to the famous Taj Mahal?",
+    "options": ["India", "China", "Japan", "Egypt"],
+    "correctAnswer": "India"
+  },
+  {
+    "question": "What is the largest river in the world?",
+    "options": ["Amazon River", "Nile River", "Yangtze River", "Mississippi River"],
+    "correctAnswer": "Amazon River"
+  },
+  {
+    "question": "Who is the author of the novel The Great Gatsby?",
+    "options": ["F. Scott Fitzgerald", "Jane Austen", "William Shakespeare", "Charles Dickens"],
+    "correctAnswer": "F. Scott Fitzgerald"
+  },
+  {
+    "question": "Which country is known as the 'Land of Smiles'?",
+    "options": ["Thailand", "Indonesia", "Vietnam", "Malaysia"],
+    "correctAnswer": "Thailand"
+  },
+  {
+    "question": "What is the largest volcano in the world?",
+    "options": ["Mauna Loa", "Mount Vesuvius", "Mount Fuji", "Mount Etna"],
+    "correctAnswer": "Mauna Loa"
+  },
+  {
+    "question": "Who is the author of the play Hamlet?",
+    "options": ["William Shakespeare", "Arthur Miller", "Tennessee Williams", "Oscar Wilde"],
+    "correctAnswer": "William Shakespeare"
+  },
+  {
+    "question": "Which country won the FIFA World Cup 2014?",
+    "options": ["Germany", "Argentina", "Brazil", "Spain"],
+    "correctAnswer": "Germany"
+  },
+  {
+    "question": "What is the deepest ocean in the world?",
+    "options": ["Pacific Ocean", "Atlantic Ocean", "Indian Ocean", "Arctic Ocean"],
+    "correctAnswer": "Pacific Ocean"
+  },
+  {
+    "question": "Who wrote the novel Moby-Dick?",
+    "options": ["Herman Melville", "Emily Bronte", "Charlotte Bronte", "Mark Twain"],
+    "correctAnswer": "Herman Melville"
+  },
+  {
+    "question": "Which country is known as the 'Land of the Rising Sun'?",
+    "options": ["Japan", "China", "South Korea", "Vietnam"],
+    "correctAnswer": "Japan"
+  },
+  {
+    "question": "What is the largest organ in the human body?",
+    "options": ["Skin", "Heart", "Liver", "Brain"],
+    "correctAnswer": "Skin"
+  },
+  {
+    "question": "Who discovered gravity?",
+    "options": ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "Nikola Tesla"],
+    "correctAnswer": "Isaac Newton"
+  },
+  {
+    "question": "Which country is home to the Great Barrier Reef?",
+    "options": ["Australia", "Brazil", "India", "Mexico"],
+    "correctAnswer": "Australia"
+  },
+  {
+    "question": "Who is the author of the Harry Potter book series?",
+    "options": ["J.K. Rowling", "Stephen King", "George R.R. Martin", "Dan Brown"],
+    "correctAnswer": "J.K. Rowling"
+  },
+  {
+    "question": "Which instrument is known as the 'king of instruments'?",
+    "options": ["Pipe Organ", "Violin", "Piano", "Guitar"],
+    "correctAnswer": "Pipe Organ"
+  },
+  {
+    "question": "Who invented the telephone?",
+    "options": ["Alexander Graham Bell", "Thomas Edison", "Nikola Tesla", "Guglielmo Marconi"],
+    "correctAnswer": "Alexander Graham Bell"
+  },
+  {
+    "question": "What is the national animal of India?",
+    "options": ["Bengal Tiger", "Elephant", "Lion", "Leopard"],
+    "correctAnswer": "Bengal Tiger"
+  },
+  {
+    "question": "Who is the Greek god of the sea?",
+    "options": ["Poseidon", "Zeus", "Hades", "Apollo"],
+    "correctAnswer": "Poseidon"
+  },
+  {
+    "question": "What is the largest mammal on Earth?",
+    "options": ["Blue Whale", "African Elephant", "Giraffe", "Hippopotamus"],
+    "correctAnswer": "Blue Whale"
+  },
+  {
+    "question": "Which city is known as the 'Eternal City'?",
+    "options": ["Rome", "Athens", "Paris", "Cairo"],
+    "correctAnswer": "Rome"
+  },
+  {
+    "question": "Who painted the ceiling of the Sistine Chapel?",
+    "options": ["Michelangelo", "Leonardo da Vinci", "Pablo Picasso", "Vincent van Gogh"],
+    "correctAnswer": "Michelangelo"
+  },
+  {
+    "question": "Which country is known as the 'Land of Fire and Ice'?",
+    "options": ["Iceland", "Greenland", "Norway", "Canada"],
+    "correctAnswer": "Iceland"
+  },
+  {
+    "question": "What is the largest desert in the world?",
+    "options": ["Sahara Desert", "Arabian Desert", "Gobi Desert", "Kalahari Desert"],
+    "correctAnswer": "Sahara Desert"
+  },
+  {
+    "question": "Who is the author of the novel To Kill a Mockingbird?",
+    "options": ["Harper Lee", "F. Scott Fitzgerald", "Ernest Hemingway", "Mark Twain"],
+    "correctAnswer": "Harper Lee"
+  },
+  {
+    "question": "Which planet is known as the 'Morning Star' or 'Evening Star'?",
+    "options": ["Venus", "Mercury", "Mars", "Jupiter"],
+    "correctAnswer": "Venus"
+  },
+  {
+    "question": "Who was the first person to walk on the Moon?",
+    "options": ["Neil Armstrong", "Buzz Aldrin", "Yuri Gagarin", "Alan Shepard"],
+    "correctAnswer": "Neil Armstrong"
+  },
+  {
+    "question": "Which country is known as the 'Land of the Midnight Sun'?",
+    "options": ["Norway", "Sweden", "Finland", "Denmark"],
+    "correctAnswer": "Norway"
+  },
+  {
+    "question": "What is the chemical symbol for water?",
+    "options": ["H2O", "CO2", "O2", "NaCl"],
+    "correctAnswer": "H2O"
+  },
+  {
+    "question": "Who wrote the novel 1984?",
+    "options": ["George Orwell", "Aldous Huxley", "Ray Bradbury", "George R.R. Martin"],
+    "correctAnswer": "George Orwell"
+  },
+  {
+    "question": "Which country is home to the famous Taj Mahal?",
+    "options": ["India", "China", "Japan", "Egypt"],
+    "correctAnswer": "India"
+  },
+  {
+    "question": "What is the largest river in the world?",
+    "options": ["Amazon River", "Nile River", "Yangtze River", "Mississippi River"],
+    "correctAnswer": "Amazon River"
+  },
+  {
+    "question": "Who is the author of the novel The Great Gatsby?",
+    "options": ["F. Scott Fitzgerald", "Jane Austen", "William Shakespeare", "Charles Dickens"],
+    "correctAnswer": "F. Scott Fitzgerald"
+  },
+  {
+    "question": "Which country is known as the 'Land of Smiles'?",
+    "options": ["Thailand", "Indonesia", "Vietnam", "Malaysia"],
+    "correctAnswer": "Thailand"
+  },
+  {
+    "question": "What is the largest volcano in the world?",
+    "options": ["Mauna Loa", "Mount Vesuvius", "Mount Fuji", "Mount Etna"],
+    "correctAnswer": "Mauna Loa"
+  },
+  {
+    "question": "Who is the author of the play Hamlet?",
+    "options": ["William Shakespeare", "Arthur Miller", "Tennessee Williams", "Oscar Wilde"],
+    "correctAnswer": "William Shakespeare"
+  },
+  {
+    "question": "Which country won the FIFA World Cup 2014?",
+    "options": ["Germany", "Argentina", "Brazil", "Spain"],
+    "correctAnswer": "Germany"
+  },
+  {
+    "question": "What is the deepest ocean in the world?",
+    "options": ["Pacific Ocean", "Atlantic Ocean", "Indian Ocean", "Arctic Ocean"],
+    "correctAnswer": "Pacific Ocean"
+  },
+  {
+    "question": "Who wrote the novel Moby-Dick?",
+    "options": ["Herman Melville", "Emily Bronte", "Charlotte Bronte", "Mark Twain"],
+    "correctAnswer": "Herman Melville"
+  },
+  {
+    "question": "Which country is known as the 'Land of the Rising Sun'?",
+    "options": ["Japan", "China", "South Korea", "Vietnam"],
+    "correctAnswer": "Japan"
+  },
+  {
+    "question": "What is the largest organ in the human body?",
+    "options": ["Skin", "Heart", "Liver", "Brain"],
+    "correctAnswer": "Skin"
+  },
+  {
+    "question": "Who discovered gravity?",
+    "options": ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "Nikola Tesla"],
+    "correctAnswer": "Isaac Newton"
+  },
+  {
+    "question": "Which country is home to the Great Barrier Reef?",
+    "options": ["Australia", "Brazil", "India", "Mexico"],
+    "correctAnswer": "Australia"
+  },
+  {
+    "question": "Who is the author of the Harry Potter book series?",
+    "options": ["J.K. Rowling", "Stephen King", "George R.R. Martin", "Dan Brown"],
+    "correctAnswer": "J.K. Rowling"
+  },
+  {
+    "question": "Which instrument is known as the 'king of instruments'?",
+    "options": ["Pipe Organ", "Violin", "Piano", "Guitar"],
+    "correctAnswer": "Pipe Organ"
+  },
+  {
+    "question": "Who invented the telephone?",
+    "options": ["Alexander Graham Bell", "Thomas Edison", "Nikola Tesla", "Guglielmo Marconi"],
+    "correctAnswer": "Alexander Graham Bell"
+  },
+  {
+    "question": "What is the national animal of India?",
+    "options": ["Bengal Tiger", "Elephant", "Lion", "Leopard"],
+    "correctAnswer": "Bengal Tiger"
+  },
+  {
+    "question": "Who is the Greek god of the sea?",
+    "options": ["Poseidon", "Zeus", "Hades", "Apollo"],
+    "correctAnswer": "Poseidon"
+  },
+  {
+    "question": "What is the largest mammal on Earth?",
+    "options": ["Blue Whale", "African Elephant", "Giraffe", "Hippopotamus"],
+    "correctAnswer": "Blue Whale"
+  },
+  {
+    "question": "Which city is known as the 'Eternal City'?",
+    "options": ["Rome", "Athens", "Paris", "Cairo"],
+    "correctAnswer": "Rome"
+  },
+  {
+    "question": "Who painted the ceiling of the Sistine Chapel?",
+    "options": ["Michelangelo", "Leonardo da Vinci", "Pablo Picasso", "Vincent van Gogh"],
+    "correctAnswer": "Michelangelo"
+  },
+  {
+    "question": "Which country is known as the 'Land of Fire and Ice'?",
+    "options": ["Iceland", "Greenland", "Norway", "Canada"],
+    "correctAnswer": "Iceland"
+  },
+  {
+    "question": "What is the largest desert in the world?",
+    "options": ["Sahara Desert", "Arabian Desert", "Gobi Desert", "Kalahari Desert"],
+    "correctAnswer": "Sahara Desert"
+  },
+  {
+    "question": "Who is the author of the novel To Kill a Mockingbird?",
+    "options": ["Harper Lee", "F. Scott Fitzgerald", "Ernest Hemingway", "Mark Twain"],
+    "correctAnswer": "Harper Lee"
+  },
+  {
+    "question": "Which planet is known as the 'Morning Star' or 'Evening Star'?",
+    "options": ["Venus", "Mercury", "Mars", "Jupiter"],
+    "correctAnswer": "Venus"
+  },
+  {
+    "question": "Who was the first person to walk on the Moon?",
+    "options": ["Neil Armstrong", "Buzz Aldrin", "Yuri Gagarin", "Alan Shepard"],
+    "correctAnswer": "Neil Armstrong"
+  },
+  {
+    "question": "Which country is known as the 'Land of the Midnight Sun'?",
+    "options": ["Norway", "Sweden", "Finland", "Denmark"],
+    "correctAnswer": "Norway"
+  },
+  {
+    "question": "What is the chemical symbol for water?",
+    "options": ["H2O", "CO2", "O2", "NaCl"],
+    "correctAnswer": "H2O"
+  },
+  {
+    "question": "Who wrote the novel 1984?",
+    "options": ["George Orwell", "Aldous Huxley", "Ray Bradbury", "George R.R. Martin"],
+    "correctAnswer": "George Orwell"
+  },
+  {
+    "question": "Which country is home to the famous Taj Mahal?",
+    "options": ["India", "China", "Japan", "Egypt"],
+    "correctAnswer": "India"
+  },
+  {
+    "question": "What is the largest river in the world?",
+    "options": ["Amazon River", "Nile River", "Yangtze River", "Mississippi River"],
+    "correctAnswer": "Amazon River"
+  },
+  {
+    "question": "Who is the author of the novel The Great Gatsby?",
+    "options": ["F. Scott Fitzgerald", "Jane Austen", "William Shakespeare", "Charles Dickens"],
+    "correctAnswer": "F. Scott Fitzgerald"
+  },
+  {
+    "question": "Which country is known as the 'Land of Smiles'?",
+    "options": ["Thailand", "Indonesia", "Vietnam", "Malaysia"],
+    "correctAnswer": "Thailand"
+  },
+  {
+    "question": "What is the largest volcano in the world?",
+    "options": ["Mauna Loa", "Mount Vesuvius", "Mount Fuji", "Mount Etna"],
+    "correctAnswer": "Mauna Loa"
+  },
+  {
+    "question": "Who is the author of the play Hamlet?",
+    "options": ["William Shakespeare", "Arthur Miller", "Tennessee Williams", "Oscar Wilde"],
+    "correctAnswer": "William Shakespeare"
+  },
+  {
+    "question": "Which country won the FIFA World Cup 2014?",
+    "options": ["Germany", "Argentina", "Brazil", "Spain"],
+    "correctAnswer": "Germany"
+  },
+  {
+    "question": "What is the deepest ocean in the world?",
+    "options": ["Pacific Ocean", "Atlantic Ocean", "Indian Ocean", "Arctic Ocean"],
+    "correctAnswer": "Pacific Ocean"
+  },
+  {
+    "question": "Who wrote the novel Moby-Dick?",
+    "options": ["Herman Melville", "Emily Bronte", "Charlotte Bronte", "Mark Twain"],
+    "correctAnswer": "Herman Melville"
+  },
+  {
+    "question": "Which country is known as the 'Land of the Rising Sun'?",
+    "options": ["Japan", "China", "South Korea", "Vietnam"],
+    "correctAnswer": "Japan"
+  },
+  {
+    "question": "What is the largest organ in the human body?",
+    "options": ["Skin", "Heart", "Liver", "Brain"],
+    "correctAnswer": "Skin"
+  },
+  {
+    "question": "Who discovered gravity?",
+    "options": ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "Nikola Tesla"],
+    "correctAnswer": "Isaac Newton"
+  },
+  {
+    "question": "Which country is home to the Great Barrier Reef?",
+    "options": ["Australia", "Brazil", "India", "Mexico"],
+    "correctAnswer": "Australia"
+  },
+  {
+    "question": "Who is the author of the Harry Potter book series?",
+    "options": ["J.K. Rowling", "Stephen King", "George R.R. Martin", "Dan Brown"],
+    "correctAnswer": "J.K. Rowling"
+  },
+  {
+    "question": "Which instrument is known as the 'king of instruments'?",
+    "options": ["Pipe Organ", "Violin", "Piano", "Guitar"],
+    "correctAnswer": "Pipe Organ"
+  },
+  {
+    "question": "Who invented the telephone?",
+    "options": ["Alexander Graham Bell", "Thomas Edison", "Nikola Tesla", "Guglielmo Marconi"],
+    "correctAnswer": "Alexander Graham Bell"
+  },
+  {
+    "question": "What is the national animal of India?",
+    "options": ["Bengal Tiger", "Elephant", "Lion", "Leopard"],
+    "correctAnswer": "Bengal Tiger"
+  },
+  {
+    "question": "Who is the Greek god of the sea?",
+    "options": ["Poseidon", "Zeus", "Hades", "Apollo"],
+    "correctAnswer": "Poseidon"
+  },
+  {
+    "question": "What is the largest mammal on Earth?",
+    "options": ["Blue Whale", "African Elephant", "Giraffe", "Hippopotamus"],
+    "correctAnswer": "Blue Whale"
+  },
+  {
+    "question": "Which city is known as the 'Eternal City'?",
+    "options": ["Rome", "Athens", "Paris", "Cairo"],
+    "correctAnswer": "Rome"
+  },
+  {
+    "question": "Who painted the ceiling of the Sistine Chapel?",
+    "options": ["Michelangelo", "Leonardo da Vinci", "Pablo Picasso", "Vincent van Gogh"],
+    "correctAnswer": "Michelangelo"
+  },
+  {
+    "question": "Which country is known as the 'Land of Fire and Ice'?",
+    "options": ["Iceland", "Greenland", "Norway", "Canada"],
+    "correctAnswer": "Iceland"
+  }
+]

@@ -1,0 +1,239 @@
+[
+  {
+    "question": "What is Flutter?",
+    "options": [
+      "A programming language",
+      "A UI toolkit",
+      "A database management system",
+      "An operating system"
+    ],
+    "correctAnswer": "A UI toolkit"
+  },
+  {
+    "question": "Which company developed Flutter?",
+    "options": ["Google", "Apple", "Microsoft", "Facebook"],
+    "correctAnswer": "Google"
+  },
+  {
+    "question": "What language is used for Flutter app development?",
+    "options": ["Dart", "JavaScript", "Python", "Java"],
+    "correctAnswer": "Dart"
+  },
+  {
+    "question": "What is the widget tree in Flutter?",
+    "options": [
+      "A data structure for storing widgets",
+      "A visual representation of the app's UI",
+      "A tree-like data structure used in algorithms",
+      "A type of animation in Flutter"
+    ],
+    "correctAnswer": "A visual representation of the app's UI"
+  },
+  {
+    "question": "What widget is used to show a pop-up dialog in Flutter?",
+    "options": ["Dialog", "Popup", "AlertDialog", "BottomSheet"],
+    "correctAnswer": "AlertDialog"
+  },
+  {
+    "question": "What is hot reload in Flutter?",
+    "options": [
+      "A feature to quickly reload the app without rebuilding",
+      "A method for updating app data on the server",
+      "A way to optimize app loading time",
+      "A way to import external code libraries"
+    ],
+    "correctAnswer": "A feature to quickly reload the app without rebuilding"
+  },
+
+{
+"question": "What is the main function in a Flutter app?",
+"options": [
+"main()",
+"start()",
+"runApp()",
+"build()"
+],
+"correctAnswer": "main()"
+},
+{
+"question": "What widget is used to create a list with dynamic content in Flutter?",
+"options": [
+"ListView",
+"DynamicList",
+"DynamicListView",
+"ListBuilder"
+],
+"correctAnswer": "ListView"
+},
+{
+"question": "In Flutter, which widget is used to create a responsive layout for different screen sizes?",
+"options": [
+"ResponsiveLayout",
+"LayoutBuilder",
+"FlexLayout",
+"ResponsiveWidget"
+],
+"correctAnswer": "LayoutBuilder"
+},
+{
+"question": "What is the purpose of the `setState()` method in a Stateful widget?",
+"options": [
+"To rebuild the widget tree",
+"To update the state of the widget",
+"To define the widget's UI",
+"To initialize the widget"
+],
+"correctAnswer": "To update the state of the widget"
+},
+{
+"question": "Which widget is used to create a row of widgets with evenly distributed space in Flutter?",
+"options": [
+"Row",
+"Column",
+"Flex",
+"Spacer"
+],
+"correctAnswer": "Row"
+},
+{
+"question": "In Flutter, what is the purpose of the `Expanded` widget?",
+"options": [
+"To create extra space between widgets",
+"To expand a widget to fill the available space",
+"To create a flexible layout",
+"To display an expanded list of items"
+],
+"correctAnswer": "To expand a widget to fill the available space"
+},
+
+  {
+    "question": "What widget is used to create a circular shape in Flutter?",
+    "options": ["Circle", "CircularShape", "Round", "ClipOval"],
+    "correctAnswer": "ClipOval"
+  },
+  {
+    "question": "What is the purpose of the `Navigator` widget in Flutter?",
+    "options": [
+      "To handle state management",
+      "To navigate between different screens",
+      "To manage app lifecycle",
+      "To handle asynchronous tasks"
+    ],
+    "correctAnswer": "To navigate between different screens"
+  },
+  {
+    "question": "What is a `FutureBuilder` widget used for in Flutter?",
+    "options": [
+      "To create a widget that builds the UI based on a future result",
+      "To create a widget that builds the UI for a specific duration",
+      "To create a widget that builds the UI based on user interactions",
+      "To create a widget that builds the UI with animation"
+    ],
+    "correctAnswer": "To create a widget that builds the UI based on a future result"
+  },
+  {
+    "question": "What is Flutter's built-in layout system called?",
+    "options": ["Flex", "LayoutBuilder", "RowColumn", "Widget Layout"],
+    "correctAnswer": "Flex"
+  },
+  {
+    "question": "What widget is used to create a material design AppBar in Flutter?",
+    "options": ["AppBar", "MaterialAppBar", "TopBar", "NavigationBar"],
+    "correctAnswer": "AppBar"
+  },
+  {
+    "question": "In Flutter, what does the `const` keyword do in front of a widget constructor?",
+    "options": [
+      "It creates a constant widget that cannot change.",
+      "It optimizes the widget to avoid unnecessary rebuilds.",
+      "It creates an immutable widget with fixed properties.",
+      "It sets the widget's position as constant in the widget tree."
+    ],
+    "correctAnswer": "It optimizes the widget to avoid unnecessary rebuilds."
+  },
+  {
+    "question": "Which widget is used to apply padding around other widgets in Flutter?",
+    "options": ["Wrap", "Align", "Padding", "Spacer"],
+    "correctAnswer": "Padding"
+  },
+  {
+    "question": "What is the purpose of the `SingleChildScrollView` widget in Flutter?",
+    "options": [
+      "To create a scrollable view with only one child widget",
+      "To display a single child with no scrolling",
+      "To automatically handle content overflow",
+      "To create a view with multiple scrollable children"
+    ],
+    "correctAnswer": "To create a scrollable view with only one child widget"
+  },
+  {
+    "question": "What is the `debugPrint` function used for in Flutter?",
+    "options": [
+      "To print debugging information in the console",
+      "To print log messages in release mode",
+      "To print performance metrics of the app",
+      "To print error messages during widget rendering"
+    ],
+    "correctAnswer": "To print debugging information in the console"
+  },
+  {
+    "question": "What is the `InkWell` widget used for in Flutter?",
+    "options": [
+      "To create a well of ink for painting",
+      "To create a clickable widget with ink splash effect",
+      "To create a widget with custom ink animations",
+      "To create a circular ink effect on a widget"
+    ],
+    "correctAnswer": "To create a clickable widget with ink splash effect"
+  },
+  {
+    "question": "What is the default alignment for widgets in a `Column` in Flutter?",
+    "options": ["start", "end", "center", "stretch"],
+    "correctAnswer": "center"
+  },
+  {
+    "question": "In Flutter, what is the primary function of a `BuildContext`?",
+    "options": [
+      "To create a new instance of a widget",
+      "To manage widget state",
+      "To build and organize the widget tree",
+      "To handle navigation between screens"
+    ],
+    "correctAnswer": "To build and organize the widget tree"
+  },
+  {
+    "question": "What is the purpose of the `async` keyword in a function declaration in Flutter?",
+    "options": [
+      "To mark the function as asynchronous",
+      "To make the function run in a separate isolate",
+      "To create a custom animation in the function",
+      "To manage the function's state"
+    ],
+    "correctAnswer": "To mark the function as asynchronous"
+  },
+  {
+    "question": "What is the purpose of the `Flexible` widget in a `Row` or `Column`?",
+    "options": [
+      "To create a widget that can be resized to any dimension",
+      "To create a widget that automatically adjusts its size",
+      "To create a widget that adapts to screen orientation",
+      "To create a widget that fills the available space"
+    ],
+    "correctAnswer": "To create a widget that fills the available space"
+  },
+  {
+    "question": "Which widget is used to apply rounded corners to another widget in Flutter?",
+    "options": ["CircleClip", "CornerClip", "RoundedRectangleBorder", "ClipRRect"],
+    "correctAnswer": "ClipRRect"
+  },
+  {
+    "question": "In Flutter, what is the purpose of the `Visibility` widget?",
+    "options": [
+      "To control the visibility of a widget in the UI",
+      "To change the opacity of a widget",
+      "To animate a widget's visibility",
+      "To apply a gradient to a widget"
+    ]
+  }]
+
+

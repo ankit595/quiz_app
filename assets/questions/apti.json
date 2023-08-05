@@ -1,0 +1,136 @@
+[
+  {
+    "question": "If 2x + 5 = 17, what is the value of x?",
+    "options": ["4", "6", "7", "8"],
+    "correctAnswer": "6"
+  },
+  {
+    "question": "What is the next number in the series: 3, 6, 9, 12, ___?",
+    "options": ["14", "15", "16", "18"],
+    "correctAnswer": "15"
+  },
+  {
+    "question": "If a car travels 60 miles in 2 hours, what is its average speed in miles per hour?",
+    "options": ["25", "30", "45", "60"],
+    "correctAnswer": "30"
+  },
+  {
+    "question": "Simplify: (4 + 6) × 2 ÷ 5",
+    "options": ["2", "4", "6", "8"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "A box contains 12 red balls and 8 blue balls. What is the probability of drawing a red ball?",
+    "options": ["30%", "40%", "50%", "60%"],
+    "correctAnswer": "60%"
+  },
+  {
+    "question": "If a = 4 and b = 6, what is the value of a² + b²?",
+    "options": ["16", "20", "28", "52"],
+    "correctAnswer": "52"
+  },
+  {
+    "question": "What is 30% of 200?",
+    "options": ["30", "60", "90", "120"],
+    "correctAnswer": "60"
+  },
+  {
+    "question": "In a class of 40 students, 25% are girls. How many boys are there in the class?",
+    "options": ["15", "20", "25", "30"],
+    "correctAnswer": "30"
+  },
+  {
+    "question": "If a train travels 250 miles in 5 hours, what is its average speed in miles per hour?",
+    "options": ["40", "50", "55", "60"],
+    "correctAnswer": "50"
+  },
+  {
+    "question": "What is the missing number in the series: 2, 5, 10, 17, ___?",
+    "options": ["22", "25", "30", "37"],
+    "correctAnswer": "26"
+  },
+  {
+    "question": "A book costs $12. If John buys 3 books, how much does he spend?",
+    "options": ["$24", "$30", "$36", "$42"],
+    "correctAnswer": "$36"
+  },
+  {
+    "question": "If 3 pencils cost $0.45, how much do 8 pencils cost?",
+    "options": ["$1.00", "$1.20", "$1.50", "$1.80"],
+    "correctAnswer": "$1.20"
+  },
+  {
+    "question": "What is the smallest prime number?",
+    "options": ["1", "2", "3", "4"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "If a clock shows 4:15, how many degrees does the minute hand move from 12 o'clock?",
+    "options": ["45", "60", "75", "90"],
+    "correctAnswer": "90"
+  },
+  {
+    "question": "What is the next number in the series: 2, 4, 8, 16, ___?",
+    "options": ["24", "30", "32", "36"],
+    "correctAnswer": "32"
+  },
+  {
+    "question": "If a person works 40 hours a week and earns $480, what is the hourly wage?",
+    "options": ["$8", "$10", "$12", "$14"],
+    "correctAnswer": "$12"
+  },
+  {
+    "question": "If 5 bananas cost $2.50, how much does one banana cost?",
+    "options": ["$0.25", "$0.30", "$0.35", "$0.40"],
+    "correctAnswer": "$0.50"
+  },
+  {
+    "question": "If a rectangle has length 8 units and width 5 units, what is its area?",
+    "options": ["8 square units", "13 square units", "35 square units", "40 square units"],
+    "correctAnswer": "40 square units"
+  },
+  {
+    "question": "What is the next number in the series: 1, 4, 9, 16, ___?",
+    "options": ["20", "24", "25", "30"],
+    "correctAnswer": "25"
+  },
+  {
+    "question": "If the sum of two angles is 90 degrees, what type of angles are they?",
+    "options": ["Acute angles", "Obtuse angles", "Right angles", "Straight angles"],
+    "correctAnswer": "Right angles"
+  },
+  {
+    "question": "What is the square root of 64?",
+    "options": ["4", "6", "8", "10"],
+    "correctAnswer": "8"
+  },
+  {
+    "question": "If a person spends 20% of their income on rent and earns $1500 per month, how much do they spend on rent?",
+    "options": ["$150", "$200", "$250", "$300"],
+    "correctAnswer": "$300"
+  },
+  {
+    "question": "What is the next number in the series: 1, 3, 6, 10, ___?",
+    "options": ["13", "15", "18", "21"],
+    "correctAnswer": "15"
+  },
+  {
+    "question": "If a circle has a diameter of 10 units, what is its radius?",
+    "options": ["5 units", "10 units", "15 units", "20 units"],
+    "correctAnswer": "5 units"
+  },
+  {
+    "question": "What is 20% of 80?",
+    "options": ["10", "16", "20", "32"],
+    "correctAnswer": "16"
+  },
+  {
+    "question": "If a person runs at a speed of 8 meters per second, how far can they run in 15 seconds?",
+    "options": ["80 meters", "100 meters", "120 meters", "150 meters"],
+    "correctAnswer": "120 meters"
+  },
+  {
+    "question": "What is the next number in the series: 1, 1, 2, 3, 5, ___?",
+    "options": ["6", "7", "8", "9"],
+    "correctAnswer": "8"
+  }]

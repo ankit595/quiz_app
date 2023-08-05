@@ -1,0 +1,157 @@
+[
+  {
+    "question": "What is Python?",
+    "options": ["A programming language", "A snake", "A food", "A country"],
+    "correctAnswer": "A programming language"
+  },
+  {
+    "question": "Which of the following is not a data type in Python?",
+    "options": ["int", "str", "float", "array"],
+    "correctAnswer": "array"
+  },
+  {
+    "question": "What is the output of the following code?\nprint(2 + 3 * 4)",
+    "options": ["9", "14", "20", "Error"],
+    "correctAnswer": "14"
+  },
+  {
+    "question": "What is the correct way to define a function in Python?",
+    "options": ["def function_name()", "function function_name()", "def function_name:", "function_name():"],
+    "correctAnswer": "def function_name():"
+  },
+  {
+    "question": "Which Python keyword is used to create a loop?",
+    "options": ["for", "if", "while", "loop"],
+    "correctAnswer": "for"
+  },
+  {
+    "question": "What does the 'range()' function in Python do?",
+    "options": ["It generates a random number", "It creates a list of numbers", "It generates a sequence of numbers", "It creates a range object"],
+    "correctAnswer": "It generates a sequence of numbers"
+  },
+  {
+    "question": "What is the correct way to comment a single line in Python?",
+    "options": ["// This is a comment", "# This is a comment", "// This is a single line comment", "# This is a single line comment"],
+    "correctAnswer": "# This is a single line comment"
+  },
+  {
+    "question": "Which function is used to get user input in Python?",
+    "options": ["get_input()", "input()", "user_input()", "read_input()"],
+    "correctAnswer": "input()"
+  },
+  {
+    "question": "What is the correct way to open a file in Python?",
+    "options": ["open_file('filename.txt')", "file.open('filename.txt')", "open('filename.txt')", "file('filename.txt')"],
+    "correctAnswer": "open('filename.txt')"
+  },
+  {
+    "question": "Which operator is used for exponentiation in Python?",
+    "options": ["^", "*", "/", "**"],
+    "correctAnswer": "**"
+  },
+  {
+    "question": "What is the output of the following code?\nprint('Hello ' + 'World')",
+    "options": ["Hello World", "HelloWorld", "Hello + World", "Error"],
+    "correctAnswer": "Hello World"
+  },
+  {
+    "question": "What is the correct way to define a class in Python?",
+    "options": ["def MyClass:", "class MyClass:", "class MyClass()", "define class MyClass:"],
+    "correctAnswer": "class MyClass:"
+  },
+  {
+    "question": "Which statement is used to exit from a loop in Python?",
+    "options": ["exit", "break", "continue", "stop"],
+    "correctAnswer": "break"
+  },
+  {
+    "question": "What is the output of the following code?\nprint(len([1, 2, 3, 4]))",
+    "options": ["4", "3", "2", "Error"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "Which function is used to find the maximum value in a list in Python?",
+    "options": ["max()", "maximum()", "find_max()", "largest()"],
+    "correctAnswer": "max()"
+  },
+  {
+    "question": "What is the correct way to add a new item to a list in Python?",
+    "options": ["list.add(item)", "list.append(item)", "list.insert(item)", "list.new(item)"],
+    "correctAnswer": "list.append(item)"
+  },
+  {
+    "question": "What does the 'import' keyword do in Python?",
+    "options": ["It exports variables to another file", "It imports functions and classes from other modules", "It imports data from a website", "It imports files from a different directory"],
+    "correctAnswer": "It imports functions and classes from other modules"
+  },
+  {
+    "question": "Which of the following is a mutable data type in Python?",
+    "options": ["int", "str", "tuple", "list"],
+    "correctAnswer": "list"
+  },
+  {
+    "question": "What is the output of the following code?\nprint(10 // 3)",
+    "options": ["3.333", "3", "3.0", "10/3"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "What is the correct way to open a file in Python and write to it?",
+    "options": ["file.open('filename.txt', 'r')", "open('filename.txt', 'r')", "open('filename.txt', 'w')", "file('filename.txt', 'w')"],
+    "correctAnswer": "open('filename.txt', 'w')"
+  },
+  {
+    "question": "Which of the following is used to represent a block of code in Python?",
+    "options": ["{ }", "( )", "[ ]", "Indentation"],
+    "correctAnswer": "Indentation"
+  },
+  {
+    "question": "What is the correct way to access the last element of a list in Python?",
+    "options": ["list[0]", "list[-1]", "list[len(list) - 1]", "list.last()"],
+    "correctAnswer": "list[-1]"
+  },
+  {
+    "question": "What is the output of the following code?\nprint('Python'.upper())",
+    "options": ["PYTHON", "python", "Python", "P"],
+    "correctAnswer": "PYTHON"
+  },
+  {
+    "question": "Which function is used to remove an item from a list in Python?",
+    "options": ["list.remove(item)", "list.delete(item)", "list.remove(item)", "list.pop(item)"],
+    "correctAnswer": "list.remove(item)"
+  },
+  {
+    "question": "What is the correct way to loop through a list in Python?",
+    "options": ["for i in range(list)", "for i in list", "for i in list:", "foreach i in list"],
+    "correctAnswer": "for i in list:"
+  },
+  {
+    "question": "What is the output of the following code?\nprint(10 % 3)",
+    "options": ["3.333", "3", "1", "10/3"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "What is the correct way to open a file in Python and read its contents?",
+    "options": ["file.open('filename.txt', 'w')", "open('filename.txt', 'w')", "file('filename.txt', 'r')", "open('filename.txt', 'r')"],
+    "correctAnswer": "open('filename.txt', 'r')"
+  },
+  {
+    "question": "What is the purpose of the 'pass' statement in Python?",
+    "options": ["To do nothing", "To stop the execution of a loop", "To exit the program", "To raise an exception"],
+    "correctAnswer": "To do nothing"
+  },
+  {
+    "question": "What is the correct way to check if a value exists in a list in Python?",
+    "options": ["value in list", "list.contains(value)", "list.has(value)", "list.check(value)"],
+    "correctAnswer": "value in list"
+  },
+  {
+    "question": "What is the output of the following code?\nprint('Hello World'[6:])",
+    "options": ["Hello", "World", "ello World", "Error"],
+    "correctAnswer": "World"
+  },
+  {
+    "question": "Which method is used to remove all occurrences of a value from a list in Python?",
+    "options": ["list.remove_all(value)", "list.clear(value)", "list.remove(value)", "list.removeAll(value)"],
+    "correctAnswer": "list.remove(value)"
+  }
+]

@@ -1,0 +1,117 @@
+[
+  {
+    "question": "What is the plural form of the word 'child'?",
+    "options": ["childs", "childen", "children", "child's"],
+    "correctAnswer": "children"
+  },
+  {
+    "question": "Which of the following is a common noun?",
+    "options": ["Doctor", "France", "Mount Everest", "Table"],
+    "correctAnswer": "Table"
+  },
+  {
+    "question": "What is the superlative form of the adjective 'big'?",
+    "options": ["biger", "biggest", "bigerest", "biggestest"],
+    "correctAnswer": "biggest"
+  },
+  {
+    "question": "Which of these is a coordinating conjunction?",
+    "options": ["and", "however", "although", "because"],
+    "correctAnswer": "and"
+  },
+  {
+    "question": "Which word is an adverb in the sentence: 'She sings beautifully.'?",
+    "options": ["sings", "she", "beautifully", "the"],
+    "correctAnswer": "beautifully"
+  },
+  {
+    "question": "What is the correct spelling of the word?",
+    "options": ["Recieve", "Receive", "Receieve", "Receve"],
+    "correctAnswer": "Receive"
+  },
+  {
+    "question": "Identify the sentence with correct subject-verb agreement:",
+    "options": [
+      "The team plays well.",
+      "The team play well.",
+      "The team is play well.",
+      "The team are play well."
+    ],
+    "correctAnswer": "The team plays well."
+  },
+  {
+    "question": "Which of the following is a pronoun?",
+    "options": ["Book", "Her", "Run", "Happily"],
+    "correctAnswer": "Her"
+  },
+  {
+    "question": "Choose the correct possessive form of the noun: 'boys'",
+    "options": ["boys'", "boy's", "boy", "boys's"],
+    "correctAnswer": "boys'"
+  },
+  {
+    "question": "Which is the correct way to write the time: 2:30 PM?",
+    "options": ["2:30 pm", "2:30 PM", "2:30 Pm", "2:30 p.m."],
+    "correctAnswer": "2:30 PM"
+  },
+  {
+    "question": "What is the comparative form of the adjective 'happy'?",
+    "options": ["happier", "happyer", "happiest", "happyiest"],
+    "correctAnswer": "happier"
+  },
+  {
+    "question": "Identify the sentence with correct punctuation:",
+    "options": [
+      "I like apples, oranges, and grapes.",
+      "I like apples oranges and grapes.",
+      "I like apples, oranges and grapes.",
+      "I like apples oranges, and grapes."
+    ],
+    "correctAnswer": "I like apples, oranges, and grapes."
+  },
+  {
+    "question": "Which word is a preposition in the sentence: 'The book is on the table.'?",
+    "options": ["book", "the", "on", "is"],
+    "correctAnswer": "on"
+  },
+  {
+    "question": "Choose the correct form of the verb for the blank: 'He ____ to school.'",
+    "options": ["go", "goes", "going", "gone"],
+    "correctAnswer": "goes"
+  },
+  {
+    "question": "Which of the following sentences is in the passive voice?",
+    "options": [
+      "The students are learning English.",
+      "English is being learned by the students.",
+      "The teacher taught the students.",
+      "The students will learn English."
+    ],
+    "correctAnswer": "English is being learned by the students."
+  },
+  {
+    "question": "What type of sentence is this? 'Bring me a glass of water.'",
+    "options": ["Interrogative", "Imperative", "Exclamatory", "Declarative"],
+    "correctAnswer": "Imperative"
+  },
+  {
+    "question": "What is the past tense of the verb 'sing'?",
+    "options": ["sing", "sung", "sang", "singed"],
+    "correctAnswer": "sang"
+  },
+  {
+    "question": "Choose the correct form of the pronoun for the blank: '____ is a doctor.'",
+    "options": ["He", "I", "You", "She"],
+    "correctAnswer": "She"
+  },
+  {
+    "question": "What is the correct order of the words to form a question?",
+    "options": [
+      "She dance does?",
+      "She does dance?",
+      "Does she dance?",
+      "Does dance she?"
+    ],
+    "correctAnswer": "Does she dance?"
+  }]
+
