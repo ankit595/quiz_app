@@ -187,7 +187,7 @@ class _AptiQuizState extends State<AptiQuiz> {
                               width: MediaQuery.of(context).size.width * .3,
                               child: ElevatedButton(
                                 style: ElevatedButton.styleFrom(
-                                    primary: Colors.transparent),
+                                    backgroundColor: Colors.transparent),
                                 onPressed: () {
                                   Navigator.pop(context);
                                 },
@@ -217,7 +217,7 @@ class _AptiQuizState extends State<AptiQuiz> {
                               width: MediaQuery.of(context).size.width * .3,
                               child: ElevatedButton(
                                   style: ElevatedButton.styleFrom(
-                                      primary: Colors.transparent),
+                                      backgroundColor: Colors.transparent),
                                   onPressed: () {
                                     Navigator.pushReplacement(
                                         context,
@@ -309,8 +309,7 @@ class _AptiQuizState extends State<AptiQuiz> {
                                 style: ElevatedButton.styleFrom(
                                     shape: RoundedRectangleBorder(
                                         borderRadius:
-                                        BorderRadius.circular(50)),
-                                    primary: _buttonColors[index]),
+                                        BorderRadius.circular(50)), backgroundColor: _buttonColors[index]),
                               ));
                         },
                       ),

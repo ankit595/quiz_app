@@ -58,7 +58,7 @@ class _TestingState extends State<Testing> {
                   width: MediaQuery.of(context).size.width * .3,
                   child: ElevatedButton(
                     style: ElevatedButton.styleFrom(
-                      primary: Colors.transparent
+                      backgroundColor: Colors.transparent
                     ),
                     onPressed: () {
                       Navigator.pop(context);
@@ -87,7 +87,7 @@ class _TestingState extends State<Testing> {
                   width: MediaQuery.of(context).size.width * .3,
                   child: ElevatedButton(
                       style: ElevatedButton.styleFrom(
-                          primary: Colors.transparent
+                          backgroundColor: Colors.transparent
                       ),
                       onPressed: () {
                         Navigator.pushReplacement(context,
